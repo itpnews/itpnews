@@ -9,10 +9,9 @@ Lately I build my own products end to end with AI coding tools (Claude Code).
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Repostless](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8)** | Native iOS / iPadOS / macOS app (Swift 6, SwiftUI) that bulk-removes reposts. Runs on-device in a WebView, so the user's session never touches a backend. Paywall routing driven by remote rules. | App Store (Live) / Android (coming soon) |
+| **[Repostless](https://repostless.app/)** | Native iPhone and iPad app (Swift, SwiftUI) that bulk-removes TikTok reposts. Paywall routing driven by remote rules. | [App Store](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8) (Live) / Android (coming soon) |
 | **[PendingMoney](https://pendingmoney.us.com/)** | B2C SaaS that helps US consumers find class-action settlements they qualify for and file claims. 17-screen quiz funnel, OTP auth, e-signature claim capture, Supabase backend, admin dashboard, API for an iOS app. | Validating demand (waitlist) |
 | **[Grapheme](https://github.com/itpnews/grapheme-releases)** | Local voice dictation for macOS. Hold a hotkey, speak Russian, English or a mix, and the text is pasted at the cursor. WhisperKit on the Neural Engine; audio never leaves the Mac. | Notarized DMG releases |
-
 All three were built solo with AI-assisted development: I set the product direction, architecture and quality bar, and Claude Code wrote the code.
 
 ---
