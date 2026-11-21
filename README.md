@@ -13,7 +13,7 @@ Now I build my own products end to end with Claude Code: from idea to the store 
 | **[PendingMoney](https://pendingmoney.us.com/)** | B2C SaaS that helps US consumers find class-action settlements they qualify for and file claims. Quiz funnel, OTP auth, e-signature claim capture, Supabase backend, admin dashboard, API for an iOS app. | Live, now run by another team on paid traffic |
 | **[Grapheme](https://github.com/itpnews/grapheme-releases)** | Local voice dictation for macOS. Hold a hotkey, speak Russian, English or a mix, and the text is pasted at the cursor. WhisperKit on the Neural Engine; audio never leaves the Mac. | Notarized DMG releases |
 | **BSB Bible: Daily Verse Widget** | iOS Bible app: verse cards by mood, the whole Bible offline, widgets. Conversion, retention and sharing loops built in from day one. | In development |
-| **Lens Prompter** | Voice teleprompter for iPhone: the script scrolls as you speak. | Waiting for App Store review |
+| **[Lens Prompter](https://lensprompter.com/)** | Voice teleprompter for iPhone: the script scrolls as you speak. | Waiting for App Store review |
 
 All of them were built solo with AI-assisted development: I set the product direction, architecture and quality bar, and Claude Code wrote the code.
 
