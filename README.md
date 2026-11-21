@@ -3,6 +3,8 @@
 Product-led growth lead. Ten years of self-serve subscription products where the product does the selling: onboarding, paywalls, activation, retention and growth loops.
 Now I build my own products end to end with Claude Code, from idea to the store in days, and grow them myself.
 
+**Focus:** product-led growth · self-serve activation · onboarding & paywall experiments · retention · growth loops · subscription economics · AI-native product building
+
 ---
 
 ## 🛠 Building now (2026)
@@ -50,7 +52,5 @@ Co-built a portfolio of photo & video subscription apps and grew the team from z
 - [Weather Live](https://apps.apple.com/us/app/weather-live-local-forecast/id749083919)
 
 ---
-
-**Focus:** product-led growth · self-serve activation · onboarding & paywall experiments · retention · growth loops · subscription economics · AI-native product building
 
 📫 [LinkedIn](https://www.linkedin.com/in/antonkuznetsov)
