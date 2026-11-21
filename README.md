@@ -3,7 +3,7 @@
 Product-led growth lead. Ten years of self-serve subscription products where the product does the selling: onboarding, paywalls, activation, retention and growth loops.
 Now I build my own products end to end with Claude Code, from idea to the store in days, and grow them myself.
 
-**Focus:** product-led growth · self-serve activation · onboarding & paywall experiments · retention · growth loops · subscription economics · AI-native product building
+**Focus:** product-led growth, self-serve activation, onboarding & paywall experiments, retention & growth loops, subscription economics, AI-native product building
 
 ---
 
