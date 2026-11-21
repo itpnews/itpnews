@@ -22,7 +22,7 @@ All of them were built solo with AI-assisted development: I set the product dire
 ## 📱 Apps I've worked on
 
 ### Acceleron Media — Mobile Director · 2024–2026
-Built a mobile acquisition channel from zero: a pipeline of apps and PWAs from concept to store submission.
+Built a mobile acquisition channel from zero (iGaming, Tier-1): a pipeline of apps and PWAs from concept to store submission.
 
 ### Vataras — Head of Production · 2022–2024
 Shipped a line of consumer subscription apps. Trial-to-paid A/B tests on Firebase Remote Config.
