@@ -1,7 +1,7 @@
 ### Hi, I'm Anton Kuznetsov 👋
 
-Product lead for consumer mobile apps. I've spent ten years on subscription apps: onboarding and paywall experiments, retention and subscription economics, and running app portfolios.
-Lately I build my own products end to end with AI coding tools (Claude Code).
+Product lead for consumer subscription apps. Ten years of onboarding and paywall experiments, retention, growth loops and running app portfolios.
+Now I build my own products end to end with Claude Code: from idea to the store in days, then I grow them myself.
 
 ---
 
@@ -9,25 +9,31 @@ Lately I build my own products end to end with AI coding tools (Claude Code).
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Repostless](https://repostless.app/)** | Native iPhone and iPad app (Swift, SwiftUI) that bulk-removes TikTok reposts. Paywall routing driven by remote rules. | [App Store](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8) (Live) / Android (coming soon) |
-| **[PendingMoney](https://pendingmoney.us.com/)** | B2C SaaS that helps US consumers find class-action settlements they qualify for and file claims. 17-screen quiz funnel, OTP auth, e-signature claim capture, Supabase backend, admin dashboard, API for an iOS app. | Validating demand (waitlist) |
+| **[Repostless](https://repostless.app/)** | Native iPhone and iPad app (Swift, SwiftUI) that bulk-removes TikTok reposts. Paywall routing driven by remote rules. | [App Store](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8) / [Google Play](https://play.google.com/store/apps/details?id=app.repostless.repost.cleaner.remover) (Live) |
+| **[PendingMoney](https://pendingmoney.us.com/)** | B2C SaaS that helps US consumers find class-action settlements they qualify for and file claims. Quiz funnel, OTP auth, e-signature claim capture, Supabase backend, admin dashboard, API for an iOS app. | Live, now run by another team on paid traffic |
 | **[Grapheme](https://github.com/itpnews/grapheme-releases)** | Local voice dictation for macOS. Hold a hotkey, speak Russian, English or a mix, and the text is pasted at the cursor. WhisperKit on the Neural Engine; audio never leaves the Mac. | Notarized DMG releases |
-All three were built solo with AI-assisted development: I set the product direction, architecture and quality bar, and Claude Code wrote the code.
+| **Selah** | iOS Bible app: verse cards by mood, the whole Bible offline, widgets. Conversion, retention and sharing loops built in from day one. | In TestFlight |
+| **Lens Prompter** | Voice teleprompter for iPhone: the script scrolls as you speak. | In development |
+
+All of them were built solo with AI-assisted development: I set the product direction, architecture and quality bar, and Claude Code wrote the code.
 
 ---
 
 ## 📱 Apps I've worked on
 
+### Acceleron Media — Mobile Director · 2024–2026
+Built a mobile acquisition channel from zero: a pipeline of apps and PWAs from concept to store submission.
+
 ### Vataras — Head of Production · 2022–2024
-Shipped 7 consumer subscription apps in 12 months. Trial-to-paid A/B tests on Firebase Remote Config.
+Shipped a line of consumer subscription apps. Trial-to-paid A/B tests on Firebase Remote Config.
 - [Background Remover & Eraser AI](https://apps.apple.com/mu/app/background-remover-eraser-ai/id6444289732): product owner; the ML team built the models
 - [AI Remove Object Eraser](https://apps.apple.com/mu/app/ai-remove-object-eraser/id1608370515): product owner; the ML team built the models
 - [Call Recorder](https://apps.apple.com/mu/app/call-recorder-record-converse/id6446789145)
 
 ### Appic Stars — Co-Founder & CPO · 2019–2022
-Co-built a portfolio of 20 photo & video subscription apps: **4.42M downloads, $1.59M lifetime revenue** (AppMagic). Grew the team from 0 to 15.
-- [Live Wallpaper & Wallpapers HD](https://apps.apple.com/us/app/live-wallpaper-wallpapers-hd/id1445026529): top app, $862K revenue, 1.85M downloads. Raised RPI from $0.14 to $0.50 (3.5×) through onboarding segmentation and subscription-structure experiments
-- [Vintage Video VHS Photo Editor](https://apps.apple.com/us/app/vintage-video-vhs-photo-editor/id1472167954): $214K revenue, 388K downloads
+Co-built a portfolio of photo & video subscription apps and grew the team from zero.
+- [Live Wallpaper & Wallpapers HD](https://apps.apple.com/us/app/live-wallpaper-wallpapers-hd/id1445026529): the portfolio's top app. Grew revenue per install through onboarding segmentation and subscription-structure experiments
+- [Vintage Video VHS Photo Editor](https://apps.apple.com/us/app/vintage-video-vhs-photo-editor/id1472167954)
 - [Blur Background Photo Editor](https://apps.apple.com/us/app/blur-background-photo-editor/id1601094450)
 - [Highlight Covers / Cover Maker](https://apps.apple.com/us/app/highlight-covers-cover-maker/id1587117448)
 - [Photo Grid Maker](https://apps.apple.com/us/app/photo-grid-maker-for-good-feed/id1570282043)
@@ -45,6 +51,6 @@ Co-built a portfolio of 20 photo & video subscription apps: **4.42M downloads, $
 
 ---
 
-**Focus:** onboarding & paywall experiments · retention · subscription economics · trial optimization · app portfolios · AI-native product building
+**Focus:** onboarding & paywall experiments · retention · growth loops · subscription economics · trial optimization · app portfolios · AI-native product building
 
 📫 [LinkedIn](https://www.linkedin.com/in/antonkuznetsov)
