@@ -9,7 +9,7 @@ Now I build my own products end to end with Claude Code: from idea to the store 
 
 | Project | What it is | Status |
 |---|---|---|
-| **[Repostless](https://repostless.app/)** | Native iPhone and iPad app (Swift, SwiftUI) that bulk-removes TikTok reposts. Paywall routing driven by remote rules. | [App Store](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8) / [Google Play](https://play.google.com/store/apps/details?id=app.repostless.repost.cleaner.remover) (Live) |
+| **[Repostless](https://repostless.app/)** | Native iPhone and iPad app (Swift, SwiftUI) that bulk-removes TikTok reposts. Paywall routing driven by remote rules. | [Site](https://repostless.app/) / [App Store](https://apps.apple.com/app/apple-store/id6808221994?pt=123927127&ct=github&mt=8) / [Google Play](https://play.google.com/store/apps/details?id=app.repostless.repost.cleaner.remover) (Live) |
 | **[PendingMoney](https://pendingmoney.us.com/)** | B2C SaaS that helps US consumers find class-action settlements they qualify for and file claims. Quiz funnel, OTP auth, e-signature claim capture, Supabase backend, admin dashboard, API for an iOS app. | Live, now run by another team on paid traffic |
 | **[Grapheme](https://github.com/itpnews/grapheme-releases)** | Local voice dictation for macOS. Hold a hotkey, speak Russian, English or a mix, and the text is pasted at the cursor. WhisperKit on the Neural Engine; audio never leaves the Mac. | Notarized DMG releases |
 | **BSB Bible: Daily Verse Widget** | iOS Bible app: verse cards by mood, the whole Bible offline, widgets. Conversion, retention and sharing loops built in from day one. | In development |
