@@ -1,7 +1,7 @@
 ### Hi, I'm Anton Kuznetsov 👋
 
-Product lead for consumer subscription apps. Ten years of onboarding and paywall experiments, retention, growth loops and running app portfolios.
-Now I build my own products end to end with Claude Code: from idea to the store in days, then I grow them myself.
+Product-led growth lead. Ten years of self-serve subscription products where the product does the selling: onboarding, paywalls, activation, retention and growth loops.
+Now I build my own products end to end with Claude Code, from idea to the store in days, and grow them myself.
 
 ---
 
@@ -51,6 +51,6 @@ Co-built a portfolio of photo & video subscription apps and grew the team from z
 
 ---
 
-**Focus:** onboarding & paywall experiments · retention · growth loops · subscription economics · trial optimization · app portfolios · AI-native product building
+**Focus:** product-led growth · self-serve activation · onboarding & paywall experiments · retention · growth loops · subscription economics · AI-native product building
 
 📫 [LinkedIn](https://www.linkedin.com/in/antonkuznetsov)
