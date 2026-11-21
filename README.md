@@ -1,4 +1,6 @@
-### Hi, I'm Anton Kuznetsov 👋
+# Portfolio · Anton Kuznetsov
+
+Hi, I'm Anton 👋
 
 Product lead for consumer subscription apps. Ten years of onboarding and paywall experiments, retention, growth loops and running app portfolios.
 Now I build my own products end to end with Claude Code: from idea to the store in days, then I grow them myself.
